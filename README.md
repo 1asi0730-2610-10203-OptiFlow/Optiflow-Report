@@ -361,9 +361,11 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
-=======
-| Criterio específico | Acciones realizadas | Conclusiones |
-|---------------------|---------------------|--------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | Atoche Gonzales, Nicolas Fernando <br> **AV1** <br> … <br><br> Azama Fukuda, Juan Pablo <br> **AV1** <br> … <br><br> Capillo Lema, Mía Valentina <br> **AV1** <br> … <br><br> Mechan Montenegro, Luciana Carolina <br> **AV1** <br> … <br><br> Morocho Pinedo, Mariana <br> **AV1** <br> … | |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | Atoche Gonzales, Nicolas Fernando <br> **AV1** <br> … <br><br> Azama Fukuda, Juan Pablo <br> **AV1** <br> … <br><br> Capillo Lema, Mía Valentina <br> **AV1** <br> … <br><br> Mechan Montenegro, Luciana Carolina <br> **AV1** <br> … <br><br> Morocho Pinedo, Mariana <br> **AV1** <br> … | |
->>>>>>> f0f2994c122c252fcc24cfd7e47853e2188ae195
+
+# Conclusiones
+
+## Conclusiones y recomendaciones
+
+## Video About-the-Team
+
+# Bibliografía
